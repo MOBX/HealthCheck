@@ -13,7 +13,7 @@ import com.lamfire.utils.DateFormatUtils;
 /**
  * Java应用程序健康检查工具(嵌入式,对非web程序很适合,轻量级仅依赖JDK)
  * 
- * @author zxc Sep 1, 2017 6:14:52 PM
+ * @author luckscript Sep 1, 2017 6:14:52 PM
  */
 public class HealthCheck {
 
